@@ -73,7 +73,7 @@ AURUM-AI/
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
+git clone https://github.com/alokg8101-eng/AURUM-AI.git
 cd AURUM-AI
 ```
 
@@ -116,4 +116,4 @@ This project is being developed as a learning and research project in Python, qu
 
 ## Disclaimer
 
-AURUM AI is strictly an educational and historical market research project. Its backtesting and machine learning results do not guarantee future market performance or profitability. It does not
+AURUM AI is an educational and historical market research project. Backtesting and machine learning results do not guarantee future performance or profitability. This project does not execute live trades or real-money transactions.
