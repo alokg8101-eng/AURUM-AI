@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# Testing
+.pytest_cache/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
